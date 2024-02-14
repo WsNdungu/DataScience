@@ -1,4 +1,4 @@
-# My Data Scientist Professional with Python Tutorials
+# DS Python Tutorials
 
 Welcome to my personal repository featuring tutorials from the Data Scientist Professional with Python career track by DataCamp. I'm aiming to refine my Python skills. These tutorials offer a hands-on learning experience covering a range of essential topics.
 
